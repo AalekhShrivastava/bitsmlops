@@ -1,4 +1,0 @@
-[core]
-    remote = myremote
-['remote "myremote"']
-    url = C:\Users\Soumya\Soumya\Aalekh_2023\BITS\Documents\Sem-3\MLOps\Code\Course\C3_git\remote
